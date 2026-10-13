@@ -65,6 +65,7 @@ Tools and servers that use the Model Context Protocol to give AI agents browser 
 - [Puppeteer MCP](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/puppeteer) 🆓 - Reference MCP server for Puppeteer-based browser automation from the official MCP servers repo.
 - [prufa-mcp](https://github.com/prufa-dev/prufa-mcp) 🆓💰 - Open-source (Apache-2.0) MCP server connected to Prufa's hosted audit backend; an AI agent runs a QA audit of a web app (analytics, broken flows, security headers, accessibility) and gets back machine-verified findings. First audit is free; further audits and features require a paid plan.
 - [qmax-mcp](https://github.com/Quality-Max/qmax-mcp) 🆓 - MCP server and CLI that gives coding agents independent QA evidence before declaring a web change done: scans a URL for console errors, broken links, accessibility, Core Web Vitals, SEO, and security headers, then generates and runs a deterministic Playwright repro behind a human-approval gate.
+- [Phonebox](https://github.com/combined-ai/phonebox-android-mcp) 🆓💰 - Hosted MCP server, CLI and SDK that give AI coding agents (Claude Code, Codex, Cursor) cloud Android phones to install an APK, tap, type, swipe and read the screen while testing an app. The MCP config is MIT; phones are billed per second at $0.06/minute with $2 free credit.
 
 ## Self-Healing Test Frameworks
 
